@@ -15,14 +15,15 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.12.2"
 # Everything below here is alphabetically sorted
+typer = "^0.12.3"
 
 [tool.poetry.dev-dependencies]
 # Everything below here is alphabetically sorted
 detect-secrets = "1.2.0"
 ipdb = "^0.13.13"
-pip-audit = "^2.5.5"
-pre-commit = "^3.3.3"
-pytest = "^7.4.0"
+pip-audit = "^2.7.3"
+pre-commit = "^3.7.0"
+pytest = "^8.2.0"
 ruff = "^0.1.14"
 
 
