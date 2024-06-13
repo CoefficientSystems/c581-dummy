@@ -198,13 +198,13 @@ files = [
 
 [[package]]
 name = "cyclonedx-python-lib"
-version = "7.3.2"
+version = "7.4.1"
 description = "Python library for CycloneDX"
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "cyclonedx_python_lib-7.3.2-py3-none-any.whl", hash = "sha256:fcbcbe4c99f87910a239de84f2bc0db4a429c208b4ef0436c0cbc3677ef1b790"},
-    {file = "cyclonedx_python_lib-7.3.2.tar.gz", hash = "sha256:e2b12702e98da7bce89c28496c73964c2a0b128276078c1d0b398a8ba359e000"},
+    {file = "cyclonedx_python_lib-7.4.1-py3-none-any.whl", hash = "sha256:73bf8d5c09ad10698c75d3ce3f123c84c9aff3959d67b8b5ca9e5a7c5da43abe"},
+    {file = "cyclonedx_python_lib-7.4.1.tar.gz", hash = "sha256:23bf8196e008bb8e06c1040ad2ab69492891d8a581cb2aefa36a77f199790a37"},
 ]
 
 [package.dependencies]
